@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://happybrazil.netlify.app',
+  baseURL: 'https://happy-omnistack-deploy.herokuapp.com',
 });
 
 export default api;

@@ -48,7 +48,7 @@ function OrphanagesMap(){
                 </header>
 
                 <footer>
-                    <strong>Petrópolis</strong>
+                    <strong>Rio de Janeiro</strong>
                     <span>RIO DE JANEIRO</span>
                 </footer>
             </aside>

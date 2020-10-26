@@ -87,9 +87,9 @@ export default function OrphanagesMap() {
             <legend>CADASTRO ORFANATO</legend>
 
             <Map
-              center={[-22.913885,-43.7261848]}
+              center={[-22.9419474,-43.2035458]}
               style={{ width: '100%', height: 280 }}
-              zoom={11}
+              zoom={13}
               onClick={handleMapClick}
             >
               <TileLayer

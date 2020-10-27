@@ -37,3 +37,19 @@ aside.app-sidebar {
   aside.app-sidebar footer button:hover {
     background: #17D6EB;
   }
+
+    /* mobile version */
+@media (max-width: 425px) {
+  aside.app-sidebar {
+    width:10%;
+    position: fixed;
+    height: 100%;
+    padding: 32px 24px;
+    background: linear-gradient(329.54deg, #15B6D6 0%, #15D6D6 100%);
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

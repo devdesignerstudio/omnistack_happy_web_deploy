@@ -89,7 +89,7 @@ export default function OrphanagesMap() {
             <Map
               center={[-22.9419474,-43.2035458]}
               style={{ width: '100%', height: 280 }}
-              zoom={13}
+              zoom={10}
               onClick={handleMapClick}
             >
               <TileLayer

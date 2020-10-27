@@ -114,6 +114,11 @@ align-items: center;
         background-size: contain;
     }
     
+    #page-landing .content-wrapper img{
+        width: 200px;
+        padding: 5px;
+    }
+
     #page-landing .content-wrapper main {
         max-width: 350px;
         padding: 5px;
@@ -121,14 +126,13 @@ align-items: center;
     
     #page-landing .content-wrapper main h1 {
         max-width: 350px;
-        font-size: 76px;
+        font-size: 38px;
         font-weight: 900;
-        line-height: 70px;
+        line-height: 35px;
     }
     
     #page-landing .content-wrapper main p {
-        margin-top: 48px;
-        font-size: 24px;
+        font-size: 20px;
         line-height: 34px;
     }
     
@@ -144,7 +148,7 @@ align-items: center;
         flex-direction: column;
     
         text-align: right;
-        padding:2px;
+        padding:5px;
     }
     
     .content-wrapper strong {

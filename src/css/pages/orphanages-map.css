@@ -153,7 +153,7 @@
     }
     
     #page-map .leaflet-container {
-        z-index: 5;
+        z-index: 2.5;
     }
     
     #page-map .create-orphanage {
@@ -161,7 +161,7 @@
         right: 20px;
         bottom: 20px;
     
-        z-index: 10;
+        z-index: 5;
     
         width: 2.5rem;
         height: 2.5rem;

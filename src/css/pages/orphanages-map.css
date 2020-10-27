@@ -158,16 +158,16 @@
     
     #page-map .create-orphanage {
         position: absolute;
-        right: 40px;
-        bottom: 40px;
+        right: 20px;
+        bottom: 20px;
     
         z-index: 10;
     
-        width: 64px;
-        height: 64px;
+        width: 2.5rem;
+        height: 2.5rem;
         background: #15c3d6;
-        border-radius: 20px;
-    
+        border-radius: 1rem;
+        
         display: flex;
         justify-content:center;
         align-items: center;
